@@ -1,0 +1,12 @@
+*.hex
+*.elf
+*.eep
+*.bin
+*.map
+*.dep
+.pio/
+build/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
